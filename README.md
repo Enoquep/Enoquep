@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on estudos da faculdade e em casa com cursos por fora 
 - 📫 How to reach me através do email: paulinocostaenoque@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Gosto de aprender coisas novas 
 
 <!---
 Enoquep/Enoquep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
